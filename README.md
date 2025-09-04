@@ -48,11 +48,11 @@ Manipulação de matriz 4x4 representando pontuações
 Uso de ponteiros implícitos nos arrays multidimensionais
 Cálculos estatísticos sobre os dados da matriz
 
-Como compilar e executar
+Como compilar e executar \n
 
 Salve o código em um arquivo ponteiros.c
 Compile com: gcc ponteiros.c -o ponteiros
 Execute com: ./ponteiros
 
 O programa guiará você através de cada exercício sequencialmente.
-CopiarCopiar HTML
+
